@@ -8,7 +8,7 @@ This repository contains my work for the **Mastercard Cybersecurity Virtual Expe
 
 **Provider:** Mastercard via Forage  
 **Track:** Cybersecurity  
-**Status:** Completed ✅
+**Status:** Completed
 
 ---
 
@@ -28,7 +28,7 @@ This repository contains my work for the **Mastercard Cybersecurity Virtual Expe
 - Common traits of phishing emails (spoofed domains, urgency, credential harvesting)
 - How organizations like Mastercard run internal phishing simulations
 
-**Deliverable:** [`task1-phishing-email/phishing_email.md`](./task1-phishing-email/phishing_email.md)
+**Deliverable:** [`Phishing Email and Activity Progression`](./assets/Mastercard_Internship_Simulation_Activity_Progression.pdf)
 
 ---
 
@@ -46,7 +46,7 @@ This repository contains my work for the **Mastercard Cybersecurity Virtual Expe
 - Identifying patterns in employee behavior across departments
 - Designing targeted security awareness training
 
-**Deliverable:** [`task2-phishing-analysis/`](./task2-phishing-analysis/)
+**Deliverable:** [`Training Material for Phishing Program`](./assets/Phishing-Training-Presentation.pptx)
 
 ---
 
@@ -61,6 +61,8 @@ This repository contains my work for the **Mastercard Cybersecurity Virtual Expe
 ---
 
 ## Certificate
+
+[`View Certificate`](./assets/mastercard_internship_simulation_completion_certificate.pdf)
 
 Issued by Mastercard via Forage upon completion of all tasks.
 
